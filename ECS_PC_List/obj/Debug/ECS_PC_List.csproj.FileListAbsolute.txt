@@ -1,0 +1,60 @@
+D:\VS\ECS_PC_List\ECS_PC_List\bin\Debug\ECS_PC_List.exe.config
+D:\VS\ECS_PC_List\ECS_PC_List\bin\Debug\ECS_PC_List.exe
+D:\VS\ECS_PC_List\ECS_PC_List\bin\Debug\ECS_PC_List.pdb
+D:\VS\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.Form1.resources
+D:\VS\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.Properties.Resources.resources
+D:\VS\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.GenerateResource.cache
+D:\VS\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.exe
+D:\VS\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.pdb
+D:\VS\ECS_PC_List\ECS_PC_List\bin\Debug\KAutoHelper.dll
+D:\VS\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.CopyComplete
+D:\VS\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.csprojAssemblyReference.cache
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\bin\Debug\ECS_PC_List.exe.config
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\bin\Debug\ECS_PC_List.exe
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\bin\Debug\ECS_PC_List.pdb
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\bin\Debug\KAutoHelper.dll
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.csprojAssemblyReference.cache
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.Form1.resources
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.Properties.Resources.resources
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.GenerateResource.cache
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.CopyComplete
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.exe
+D:\16. C#_DEV\ECS_PC_List\ECS_PC_List\obj\Debug\ECS_PC_List.pdb
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\bin\Debug\KAutoHelper.dll
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.Form1.resources
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.GenerateResource.cache
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.CopyComplete
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.frmAdd.resources
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\Interop.SHDocVw.dll
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.ResolveComReference.cache
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.Form3.resources
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.frmLogChecker.resources
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\bin\Debug\ECS_Management.exe.config
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\bin\Debug\ECS_Management.exe
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\bin\Debug\ECS_Management.pdb
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_Management.Properties.Resources.resources
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_Management.exe
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_Management.pdb
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_PC_List.csprojAssemblyReference.cache
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\bin\Debug\Bunifu.Licensing.dll
+D:\VS\ECS_PC_List_Optimized\ECS_PC_List\obj\Debug\ECS_Management.exe.config
+D:\VS\ECS_PC_Management\ECS_PC_List\bin\Debug\ECS_Management.exe.config
+D:\VS\ECS_PC_Management\ECS_PC_List\bin\Debug\ECS_Management.exe
+D:\VS\ECS_PC_Management\ECS_PC_List\bin\Debug\ECS_Management.pdb
+D:\VS\ECS_PC_Management\ECS_PC_List\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\VS\ECS_PC_Management\ECS_PC_List\bin\Debug\KAutoHelper.dll
+D:\VS\ECS_PC_Management\ECS_PC_List\bin\Debug\Bunifu.Licensing.dll
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_Management.exe.config
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\Interop.SHDocVw.dll
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.ResolveComReference.cache
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.Form1.resources
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.frmAdd.resources
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.Form3.resources
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.frmLogChecker.resources
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_Management.Properties.Resources.resources
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.GenerateResource.cache
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.csproj.CopyComplete
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_Management.exe
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_Management.pdb
+D:\VS\ECS_PC_Management\ECS_PC_List\obj\Debug\ECS_PC_List.csprojAssemblyReference.cache
